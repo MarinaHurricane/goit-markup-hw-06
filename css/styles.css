@@ -838,7 +838,7 @@ p.overlay-paragraph {
 }
 
 .footer-input {
-    opacity: 60%;
+    opacity: 30%;
 }
 
 .footer-form-paragraph {
@@ -978,6 +978,11 @@ p.overlay-paragraph {
         .footer-section:not(:last-child) {
             margin-bottom: 48px;
         }
+
+        .footer-input {
+            opacity: 100%;
+        }
+
     }
 
 /* Desktop Footer */
